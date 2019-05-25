@@ -1,0 +1,24 @@
+{
+  "name": "magazzino",
+  "version": "1.0.0",
+  "description": "Software de estoque de produtos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekionbr/Magazzino.git"
+  },
+  "keywords": [
+    "estoque",
+    "inventário",
+    "venda"
+  ],
+  "author": "Julio Cesar Silveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dekionbr/Magazzino/issues"
+  },
+  "homepage": "https://github.com/dekionbr/Magazzino#readme"
+}
